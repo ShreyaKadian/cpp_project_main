@@ -12,6 +12,6 @@ Go to the website and download the zip on your linux os
 
 6)Run in terminal -
 
-7)chmod +x codokopia (for tetris codokopia for pong its codokopia2 in both cases)
+7)chmod +x codokopia (for tetris its codokopia for pong its codokopia2 in both 7 and 8)
 
 8)./codokopia
