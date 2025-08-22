@@ -4,8 +4,9 @@
 #include <ctime>
 
 
-// g++ codokopia.cpp -lsfml-graphics -lsfml-window -lsfml-system -o codokopia
+//  g++ codokopia.cpp -lsfml-graphics -lsfml-window -lsfml-system -o codokopia
 // ./codokopia
+
 
 
 
